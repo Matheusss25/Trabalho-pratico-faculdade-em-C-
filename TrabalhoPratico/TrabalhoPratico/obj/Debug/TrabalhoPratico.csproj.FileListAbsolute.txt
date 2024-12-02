@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\Administrador\source\repos\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe
+C:\Users\Administrador\source\repos\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.pdb
+C:\Users\Administrador\source\repos\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.exe
+C:\Users\Administrador\source\repos\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.pdb
