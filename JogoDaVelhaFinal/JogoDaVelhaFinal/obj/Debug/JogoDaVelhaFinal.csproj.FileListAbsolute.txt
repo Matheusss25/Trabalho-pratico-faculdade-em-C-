@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\JogoDaVelhaFinal\JogoDaVelhaFinal\bin\Debug\JogoDaVelhaFinal.exe.config
+C:\Users\Administrador\source\repos\JogoDaVelhaFinal\JogoDaVelhaFinal\bin\Debug\JogoDaVelhaFinal.exe
+C:\Users\Administrador\source\repos\JogoDaVelhaFinal\JogoDaVelhaFinal\bin\Debug\JogoDaVelhaFinal.pdb
+C:\Users\Administrador\source\repos\JogoDaVelhaFinal\JogoDaVelhaFinal\obj\Debug\JogoDaVelhaFinal.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\JogoDaVelhaFinal\JogoDaVelhaFinal\obj\Debug\JogoDaVelhaFinal.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\JogoDaVelhaFinal\JogoDaVelhaFinal\obj\Debug\JogoDaVelhaFinal.exe
+C:\Users\Administrador\source\repos\JogoDaVelhaFinal\JogoDaVelhaFinal\obj\Debug\JogoDaVelhaFinal.pdb
